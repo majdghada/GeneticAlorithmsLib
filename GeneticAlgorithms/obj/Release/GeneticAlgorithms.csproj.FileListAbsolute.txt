@@ -1,0 +1,4 @@
+C:\Users\Majd\Desktop\GeneticAlgorithms\GeneticAlgorithms\bin\Release\GeneticAlgorithms.dll
+C:\Users\Majd\Desktop\GeneticAlgorithms\GeneticAlgorithms\bin\Release\GeneticAlgorithms.pdb
+C:\Users\Majd\Desktop\GeneticAlgorithms\GeneticAlgorithms\obj\Release\GeneticAlgorithms.dll
+C:\Users\Majd\Desktop\GeneticAlgorithms\GeneticAlgorithms\obj\Release\GeneticAlgorithms.pdb
